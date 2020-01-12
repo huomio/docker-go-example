@@ -11,3 +11,4 @@ Make a docker image
  ```
  make image
  ```
+The app uses the port 80 always
