@@ -7,3 +7,6 @@ run: clean
 clean:
 	@rm -rf dist 2> /dev/null
 	@rm -rf docker-go-example 2> /dev/null
+
+image: clean
+	docker build -t docker-go-example .
