@@ -1,7 +1,7 @@
 {
   "name": "docker-go-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "A really simple example how to use jsx and golang in the same app",
   "main": "web/scripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
